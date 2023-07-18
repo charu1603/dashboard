@@ -101,7 +101,10 @@ const Board =  () =>{
                       <h2 className='text-xs font-bold text-gray-600'>Make money online through</h2>
                   </div>
 
-                  <div className='h-40 w-72 bg-white rounded-xl mt-20 ml-16'>
+                  <div className='h-40 w-72 bg-white rounded-xl flex flex-col p-4 mt-20 ml-16'>
+
+                  <h2 className='text-xs font-bold text-gray-400'>App development</h2>
+                      <h2 className='text-xs font-bold text-gray-600'>Make money online through</h2>
                   </div>
               </div>
 
